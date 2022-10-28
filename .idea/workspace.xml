@@ -40,7 +40,20 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.VariableFun">
+  <component name="RunManager" selected="Application.CommentFun">
+    <configuration name="CommentFun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mywork.section2.CommentFun" />
+      <module name="Java-Videos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mywork.section2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mywork.section2.HelloWorld" />
       <module name="Java-Videos" />
@@ -69,6 +82,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CommentFun" />
         <item itemvalue="Application.VariableFun" />
         <item itemvalue="Application.HelloWorld" />
       </list>
